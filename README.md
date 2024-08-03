@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHaHaD OMaR Bin Kulab
 - 👀 I’m interested in Web Developer, UI/UX design, Graphic design and Cyber security 
-- 🌱 I’m currently learning Javascript, Html, Ui/Ux design and a little bit of Python 
+- 🌱 I’m currently learning React framework 
 
 
 <!---
